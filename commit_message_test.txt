@@ -1,0 +1,4 @@
+Q: What is my purpose?
+A: You exist only for me to test how "git commit" works without the -m 
+flag
+Q: Oh my god
